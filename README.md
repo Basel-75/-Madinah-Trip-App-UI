@@ -1,6 +1,6 @@
 # tripapp
 
-A new Flutter project.
+A new Flutter project that UI that help pepole who want to visit medina/sa.
 
 ## Getting Started
 
