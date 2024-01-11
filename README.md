@@ -1,10 +1,8 @@
 # Trip App - Explore Famous Locations in Medina, Saudi Arabia
 
-
 A Flutter application showcasing the most famous locations in Medina, Saudi Arabia. This app uses a PageView to present detailed information about each location along with captivating images.
 
-A new Flutter project UI that help pepole who want to visit medina/sa.
-
+**A new Flutter project UI that helps people who want to visit Medina/Saudi Arabia.**
 
 ## Features:
 
